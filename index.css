@@ -135,3 +135,20 @@ nav a {
 .info {
   margin:0 auto;  
 }
+
+.campfire {
+    text-align: center;
+}
+
+.campfire img{
+    width:15%
+}
+.campfire p {
+    width:35%;
+    margin: -5% auto 1%;
+    padding:5%;
+}
+
+.campfire span{
+    font-weight: bold;
+}
