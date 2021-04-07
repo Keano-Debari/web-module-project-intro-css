@@ -38,7 +38,7 @@ blockquote, q {
 	}
 
 * {
-    box-sizing: border;
+    box-sizing: border-box;
     max-width: 100%;
     border: 1px solid grey;
 }
@@ -115,4 +115,23 @@ nav a {
     line-height: 2;
     position: absolute;
     bottom: 20%;
+}
+
+.about {
+    background-color: #DDB9A3;
+    margin: 1% 5%;
+}
+
+.about p{
+    color:white;
+    line-height: 2;
+    font-size: 2.5rem;
+    padding: 2% 5%;
+    margin:auto;
+    text-align:center;
+
+}
+
+.info {
+  margin:0 auto;  
 }
