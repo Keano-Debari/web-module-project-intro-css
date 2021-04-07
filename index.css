@@ -152,3 +152,21 @@ nav a {
 .campfire span{
     font-weight: bold;
 }
+
+.camping {
+    text-align: center;
+}
+
+.camping img {
+    width:15%
+}
+
+.camping p {
+    width:35%;
+    margin: -5% auto 1%;
+    padding:5%;
+}
+
+.camping span {
+    font-weight: bold;
+}
